@@ -1,0 +1,6 @@
+site_name: Minjun Kim
+site_url: https://minjunkim.me
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
