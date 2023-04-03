@@ -1,5 +1,9 @@
 site_name: Minjun Kim
-site_url: https://minjunkim.me
+site_url: ""
+plugins: []
+
+use_directory_urls: false
+
 nav:
   - Home: index.md
   - About: about.md
